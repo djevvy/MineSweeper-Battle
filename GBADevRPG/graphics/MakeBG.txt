@@ -1,0 +1,9 @@
+grit /Users/dylanevans/GBADevRPG/graphics/GameBoard.bmp  -g -gB4 -p -gu32 -ftc -tw8 -th8 -pe16 -m -mu32 -o /Users/dylanevans/GBADevRPG/include/gameBoard.c 
+
+
+grit /Users/dylanevans/GBADevRPG/graphics/lv1.bmp  -g -gB4 -p -gu32 -ftc -tw8 -th8 -pe16 -m -mu32 -o /Users/dylanevans/GBADevRPG/include/lv1.c
+
+
+
+192 x 104
+24  X 13

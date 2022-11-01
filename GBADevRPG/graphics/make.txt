@@ -1,0 +1,5 @@
+grit /Users/dylanevans/GBADevRPG/graphics/cursor.bmp -g -gB4 -p -gu32 -ftc -tw8 -th8 -pe16 -o  /Users/dylanevans/GBADevRPG/include/cursor.c
+
+grit /Users/dylanevans/GBADevRPG/graphics/player.bmp -g -gB4 -p -gu32 -ftc -tw8 -th8 -pe16 -o  /Users/dylanevans/GBADevRPG/include/player.c
+
+grit /Users/dylanevans/GBADevRPG/graphics/ball.bmp -g -gB4 -p -gu32 -ftc -tw8 -th8 -pe16 -o  /Users/dylanevans/GBADevRPG/include/ball.c
